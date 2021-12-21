@@ -1,4 +1,4 @@
 host = "localhost"
 user = "kiril"
-password = "Zakyta1941"
+password = "*******"
 db_name = "ReneeMontoyaApp"
